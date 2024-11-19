@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.main{
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.availableItemButton{
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.cartSection{
+  margin-top: 20px;
+}

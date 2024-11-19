@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height:100vh;
+}
+
+.btn{
+  font-size: 1rem;
+  padding: 10px;
+  margin-top: 15px;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.btn:hover{
+  cursor: pointer;
+}
